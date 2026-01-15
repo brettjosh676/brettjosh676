@@ -1,5 +1,5 @@
 # brettjosh676
-<h1 align="left">Hey yoo 👋 What's up?</h1>
+<h1 align="left">Hey yoo WASSUP 👋 What's up?</h1>
 
 ###
 
