@@ -1,9 +1,9 @@
 # brettjosh676
-<h1 align="left">Hey yoo WASSUP 👋 What's up?</h1>
+<h1 align="left">Hey yoo WASSUP 👋</h1>
 
 ###
 
-<p align="left">My name is Brett Josh Bernado Binasbas and I'm aspiring software developer, from the Philippines</p>
+<p align="left">Hey! I'm Brett Josh, an aspiring software developer, investor and artist from the Philippines!</p>
 
 
 ###
