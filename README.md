@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Hey! I'm Brett Josh, an aspiring software developer, investor and artist from the Philippines!</p>
+<p align="left">Hey! I'm Brett Josh Bernado Binasbas, an aspiring software developer, investor and artist from the Philippines!</p>
 
 
 ###
